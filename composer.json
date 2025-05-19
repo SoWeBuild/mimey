@@ -2,6 +2,7 @@
   "name": "ralouphie/mimey",
   "description": "PHP package for converting file extensions to MIME types and vice versa.",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Ralph Khattar",
